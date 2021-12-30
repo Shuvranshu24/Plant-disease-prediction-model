@@ -1,6 +1,7 @@
 # Plant_disease_prediction_model
 
 Abstract Overview :
+
 This model will detect whether a plant (from the given 3 classes) is suffering from any kind of a disease or not. This model will help farmers know about the condition of the crops at an early stage, so that they can take the necessary decisions and prevent wastage of food for our over growing population.
 
 This model is based on the scope of the development of MOBILE DISEASE DIAGNOSTICS through Machine Learning and Big Data. With the rapid growing population of this planet, there'll be a gradual increase in food production. Currently infectious diseases reduce the potential yield by an average of 40% (approx). Whereas there are situations where many farmers in our developing world have to face 100% yield losses sometimes.
