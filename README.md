@@ -23,16 +23,3 @@ https://www.kaggle.com/shuvranshu/plant-disease-prediction-dataset
 # Regarding ipynb file :
 - If you're using *Google Colab* then change dataset folder path while mounting the drive.
 - If you're using any other platform like Microsoft VS Code, Jupyter Notebook etc then simply open the ipynb file.
-
-# Connect with me on :
-LinkedIn:
-     www.linkedin.com/in/shuvranshu
-
-Github:
-    https://github.com/Shuvranshu24
-
-Twitter:
-    https://twitter.com/shuvranshu_24
-
-Kaggle:
-    https://www.kaggle.com/shuvranshu
